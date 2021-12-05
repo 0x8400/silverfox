@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
 webrick:
   headers:
-    My-Header: tttt
+    My-Header: My-Value
 
