@@ -2,6 +2,6 @@
 
 
 
-### Support or Contact
+
 
 sff@silverfox.fund
