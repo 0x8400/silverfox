@@ -6633,4 +6633,6 @@ element.style {
     text-align: center;
     -o-object-fit: scale-down;
     object-fit: scale-down;
+    display: inline-block;
+    max-width: 100%;
 }
