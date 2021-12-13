@@ -6636,3 +6636,9 @@ element.style {
     display: inline-block;
     max-width: 100%;
 }
+
+.image-4 {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
